@@ -37,3 +37,35 @@ From the analysis, we identified three key takeaways:
 1. **High Attrition Rate in Sales and R&D Departments:** 56% of attrition comes from the R&D department, followed by 38.82% from Sales.
 2. **Job Satisfaction Varies Across Roles:** Sales Executives have the highest attrition, but also the highest job satisfaction scores.
 3. **Attrition by Gender and Age:** Men account for a higher attrition rate compared to women, with the highest attrition seen in the age group of 25-34 (29.11%).
+
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/3bda55f2-9c0e-4c01-b9be-3874abb7cca5)
+
+## Insights Deep Dive
+### Department-wise Attrition:
+* **R&D Department:** The R&D department shows the highest attrition rate, with 133 employees (56.12%) leaving. This suggests a need for retention strategies in this department.
+* **Sales Department:** Sales has 92 employees leaving (38.82%). This department is also marked by high attrition despite high satisfaction, suggesting possible stress or work-life balance issues.
+
+### Employee Demographics:
+* **Employee Age:** The majority of the workforce is in the age range of 30-36 years. This age group shows high retention but will require engagement to avoid future attrition spikes.
+* **Gender Distribution of Attrition:** Males have a higher attrition rate across all age groups. Particularly, men aged 25-34 show the highest attrition (29.11%).
+
+### Job Satisfaction by Role:
+* **Sales Executives:** Despite high attrition, Sales Executives show a high job satisfaction rating (112 employees with satisfaction level 4), indicating a need to investigate non-job satisfaction factors causing attrition.
+* **Research Scientists:** High satisfaction ratings (90 employees with level 4 satisfaction) and relatively low attrition make this group stable.
+
+### Education Field-wise Attrition:
+* **Life Sciences & Medical:** Employees from Life Sciences (89 attritions) and Medical fields (63 attritions) show the highest rates of attrition, indicating potential issues in specific job roles or work conditions.
+
+## Recommendations:
+Based on the insights derived from the analysis, we propose the following recommendations:
+1. **Focus on Retention in R&D and Sales:** Implement targeted retention strategies for R&D and Sales, such as employee engagement programs and workload management.
+2. **Engage High-Satisfaction Employees in Sales:** Investigate the disconnect between high job satisfaction and attrition in Sales. Consider offering additional support or career growth opportunities.
+3. **Gender-focused Retention Strategies:** Given the higher attrition among men, especially in the 25-34 age range, consider developing gender-specific retention programs, such as work-life balance initiatives or mentorship programs.
+4. **Departmental Training for Life Sciences & Medical Employees:** Attrition is highest in these fields. HR should explore additional training or career advancement opportunities for employees in these areas to boost retention.
+
+## Assumptions and Caveats:
+Throughout the analysis, we made several assumptions based on data limitations:
+1. **Attrition Reasons Not Available:** The dataset does not provide specific reasons for employee exits, so assumptions were made based on trends in age and department.
+2. **Job Satisfaction Self-Reported:** Job satisfaction data is based on self-reported surveys, which may have biases or inaccuracies.
+3. **Limited Time Frame:** The analysis was conducted on a snapshot of employee data and may not reflect long-term trends.
+
